@@ -18,7 +18,7 @@ indentação correta do código, para ficar dentro da IIFE.
         return number1 + number2;
     }
     myFunction();
-
+// aaa
     /*
         myFunction2();
     */
